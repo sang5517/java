@@ -99,7 +99,7 @@ public class qestionschangmoon {
 
             for(int t = b; t < 12; t++) {
                 if(t + 1 == 1);
-                System.out.println("오름차순:" );
+                System.out.println("" );
 
 
 

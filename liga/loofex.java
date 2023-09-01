@@ -1,13 +1,7 @@
 package liga;
 
+import java.util.concurrent.SynchronousQueue;
+
 public class loofex {
-    public static void main(String[] args) {
-
-
-
-
-
-
 
     }
-}
