@@ -1,4 +1,4 @@
-package da4.moonjae;
+package da4.exam2;
 
 public class day13 {
     public static void main(String[] args) {
