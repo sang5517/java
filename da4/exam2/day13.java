@@ -1,6 +1,6 @@
 package da4.exam2;
 
-public class day13 {
+public class        day13 {
     public static void main(String[] args) {
 
      System.out.println(Person.avgAge);
@@ -23,7 +23,7 @@ class 자동차 {
 
 class Person {
     static int avgAge = 100; // 클래스 변수
-    int age = 30; //인스턴스 변수
+    int age = 30; //인스턴스(객체) 변수
 
     public static void hi() {
         System.out.println("안녕");
