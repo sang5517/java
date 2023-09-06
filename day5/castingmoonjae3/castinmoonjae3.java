@@ -19,14 +19,15 @@ public class castinmoonjae3 {
         // 출력 : 홍길동이/가 칼로 공격합니다.
     }
 }
-
+//전사는 무기다.
 class 전사 {
     // 인스턴스 변수
     String 이름;
     // 인스턴스 변수
     int 나이;
     // 인스턴스 변수
-    무기 a무기; // 무기 리모컨
+    무기 a무기; // 무기 리모컨 자바 대전데 : 변수는 같은 타입만 저장할 수 있따.
+
 
     public void 공격(){
         System.out.printf(이름 + "이/가" );
