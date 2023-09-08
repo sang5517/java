@@ -10,6 +10,9 @@ public class Person {
         System.out.println("안녕");
     }
 
+    public void hi() {
+    }
+
 
     public static class referrence {
         public static void test(String param) {
